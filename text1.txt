@@ -1,0 +1,1 @@
+You use it to tell Git exactly which files you want to include in your next commit.
